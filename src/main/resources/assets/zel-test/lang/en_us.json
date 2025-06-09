@@ -1,4 +1,6 @@
 {
   "item.zel-test.mother_plate": "Mother Plate",
-  "item.zel-test.minos_prime": "Minos Prime"
+  "item.zel-test.minos_prime": "Minos Prime",
+
+  "block.zel-test.minos_prime_head_block": "Judgement Block"
 }
